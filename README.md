@@ -1,3 +1,3 @@
-## GuessTheNumber
+### GuessTheNumber
 
-### Español
+## Español
